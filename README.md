@@ -1,6 +1,5 @@
- 💫 About Me:
-
-- 🔭 I’m currently working on **creating cybersecurity awareness content**
+# 💫 About Me:
+🔭 I’m currently working on **creating cybersecurity awareness content**
 
 - 🌱 I’m currently learning **ethical hacking methodologies**
 
@@ -13,7 +12,6 @@
 - 📫 How to reach me **sufyan.sirisrar@gmail.com**
 
 - ⚡ Fun fact **i love solving complex puzzles and brain teasers.**
-
 
 
 ## 🌐 Socials:
@@ -35,15 +33,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=cyberion-zerocool&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @cyberion-zerocool
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-cyberion-zerocool/cyberion-zerocool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
